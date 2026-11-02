@@ -4,7 +4,7 @@
 #
 # Email is deliberately NOT listed here: jekyll-socials renders it as a plain mailto: link,
 # which al_email_protect cannot yet obfuscate. The address is rendered (protected) in _pages/about.md.
+scholar_userid: UFlcnfUAAAAJ # your Google Scholar ID (the `user=` value in your profile URL)
 github_username: pietrobicocchi # your GitHub user name
 linkedin_username: pietrobicocchi # your LinkedIn user name
-# scholar_userid: # your Google Scholar ID (the `user=` value in your profile URL) — TODO: add once the profile exists
 # orcid_id: # your ORCID ID
