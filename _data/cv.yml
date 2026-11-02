@@ -4,7 +4,7 @@
 cv:
   sections:
     Education:
-      - institution: University of Oxford — St Edmund Hall
+      - institution: University of Oxford
         location: Oxford, UK
         degree: DPhil in Computer Science
         area: Machine Learning & AI

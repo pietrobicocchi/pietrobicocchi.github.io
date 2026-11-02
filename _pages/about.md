@@ -8,9 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>St Edmund Hall</p>
-    <p>University of Oxford</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -31,7 +28,7 @@ I am a DPhil student in Computer Science at the University of Oxford, supervised
 [J. Doyne Farmer](https://www.inet.ox.ac.uk/people/j-doyne-farmer) and
 [Anisoara Calinescu](https://www.cs.ox.ac.uk/people/ani.calinescu/).
 I am a member of the [Large Agent Collider (LAC)](https://largeagentcollider.github.io/) group and am affiliated with
-[INET Oxford](https://www.inet.ox.ac.uk/) and the BOLD Lab. My DPhil is funded by a
+[INET Oxford](https://www.inet.ox.ac.uk/) and the [BOLD Lab](https://bold-lab.ai/). My DPhil is funded by a
 [Jane Street Graduate Research Fellowship](https://www.janestreet.com/join-jane-street/programs-and-events/graduate-research-fellowship/).
 
 {% comment %}
