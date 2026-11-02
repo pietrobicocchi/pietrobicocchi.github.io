@@ -27,7 +27,7 @@ I am a DPhil student in Computer Science at the University of Oxford, supervised
 [Michael Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/),
 [J. Doyne Farmer](https://www.inet.ox.ac.uk/people/j-doyne-farmer) and
 [Anisoara Calinescu](https://www.cs.ox.ac.uk/people/ani.calinescu/).
-I am a member of the [Large Agent Collider (LAC)](https://largeagentcollider.github.io/) group and am affiliated with
+I am a member of the [Large Agent Collider (LAC)](https://largeagentcollider.github.io/) group,
 [INET Oxford](https://www.inet.ox.ac.uk/) and the [BOLD Lab](https://bold-lab.ai/). My DPhil is funded by a
 [Jane Street Graduate Research Fellowship](https://www.janestreet.com/join-jane-street/programs-and-events/graduate-research-fellowship/).
 
