@@ -38,7 +38,7 @@ TODO: rewrite the research paragraph below once the research direction settles (
 My research is on multi-agent systems, combining differentiable simulation, agent-based modelling and reinforcement learning.
 
 Before Oxford, I worked as a quantitative strategist in FX and fixed income at Morgan Stanley, and as a consultant in the
-Advanced Analytics Group at Bain & Company. I hold an M.Sc. in Physics of Complex Systems from Politecnico di Torino,
+Advanced Analytics Group at Bain & Company. I hold an MSc in Physics of Complex Systems from Politecnico di Torino,
 including an exchange year in theoretical physics at Sorbonne University.
 
 **Email:** {% al_email_protect_link 'pietro.bicocchi@seh.ox.ac.uk' %}

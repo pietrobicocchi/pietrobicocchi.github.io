@@ -7,7 +7,6 @@ cv:
       - institution: University of Oxford
         location: Oxford, UK
         degree: DPhil in Computer Science
-        area: Machine Learning & AI
         start_date: 2026
         end_date: 2029
         highlights:
@@ -25,8 +24,7 @@ cv:
 
       - institution: Politecnico di Torino
         location: Turin, Italy
-        degree: M.Sc. Physics of Complex Systems
-        area: 110/110 cum laude
+        degree: MSc Physics of Complex Systems
         start_date: 2021
         end_date: 2023
         highlights:
@@ -34,7 +32,7 @@ cv:
 
       - institution: Sorbonne Université
         location: Paris, France
-        degree: M.Sc. exchange year, Theoretical Physics
+        degree: MSc Theoretical Physics
         start_date: 2022
         end_date: 2023
 
