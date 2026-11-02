@@ -9,30 +9,21 @@ cv:
         degree: DPhil in Computer Science
         start_date: 2026
         end_date: 2029
-        highlights:
-          - Supervised by Michael Wooldridge, J. Doyne Farmer and Anisoara Calinescu.
-          - Differentiable simulation, multi-agent systems, reinforcement learning.
-          - Member of the Large Agent Collider (LAC) group, INET Oxford (Oxford Martin School) and the BOLD Lab.
-          - Funded by a Jane Street Graduate Research Fellowship.
 
       - institution: Mathematical Institute, University of Oxford
         location: Oxford, UK
         degree: Visiting Student
         date: 2023
-        highlights:
-          - Research at INET Oxford with J. Doyne Farmer.
 
       - institution: Politecnico di Torino
         location: Turin, Italy
-        degree: MSc Physics of Complex Systems
+        degree: M.Sc. Physics of Complex Systems, summa cum laude
         start_date: 2021
         end_date: 2023
-        highlights:
-          - "Thesis: Firm Dynamics and Lead–Lag Effects: Statistical Analysis of Growth Rates, supervised by L. Dall'Asta and J. D. Farmer; research conducted at INET Oxford."
 
       - institution: Sorbonne Université
         location: Paris, France
-        degree: MSc Theoretical Physics
+        degree: M.Sc. Theoretical Physics
         start_date: 2022
         end_date: 2023
 
@@ -41,13 +32,8 @@ cv:
         position: Quantitative Strategist — FX & Fixed Income
         start_date: 2024
         end_date: 2026
-        highlights:
-          - Systematic alpha research on the G10 and EM cross-currency basis, from statistical validation to production.
-          - Modelled client flow, liquidity and market microstructure in electronic FX; built tick-level data pipelines in kdb+/q and Python.
 
       - company: Bain & Company
         position: Strategy Consultant — Advanced Analytics Group
         start_date: 2023
         end_date: 2024
-        highlights:
-          - Built and deployed machine-learning models for clients in technology, retail and travel.
