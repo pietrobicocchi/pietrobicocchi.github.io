@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # icons are rendered at the end of the bio below, with email protection
 
 announcements:
   enabled: true # includes a list of news items
@@ -37,4 +37,5 @@ TODO: rewrite the research paragraph below once the research direction settles (
 
 My research is on multi-agent systems, combining differentiable simulation, agent-based modelling and reinforcement learning.
 
-**Email:** {% al_email_protect_link 'pietro.bicocchi@seh.ox.ac.uk' %}
+{% capture social_icons %}{% social_links %}{% endcapture %}
+<div class="social"><div class="contact-icons">{{ social_icons | al_email_protect_html }}</div></div>

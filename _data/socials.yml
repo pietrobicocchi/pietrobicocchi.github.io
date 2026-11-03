@@ -2,9 +2,11 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 #
-# Email is deliberately NOT listed here: jekyll-socials renders it as a plain mailto: link,
-# which al_email_protect cannot yet obfuscate. The address is rendered (protected) in _pages/about.md.
+# The icon row is rendered in _pages/about.md (not by the layout) so its output can be passed through
+# al_email_protect_html: the email icon is then emitted without a plain address or mailto: link.
+# Keep `enable_navbar_social: false` in _config.yml, since the navbar block is not filtered.
+email: pietro.bicocchi@seh.ox.ac.uk # your email address
 scholar_userid: UFlcnfUAAAAJ # your Google Scholar ID (the `user=` value in your profile URL)
+orcid_id: 0009-0006-6189-3940 # your ORCID ID
 github_username: pietrobicocchi # your GitHub user name
 linkedin_username: pietro-bicocchi # your LinkedIn user name
-# orcid_id: # your ORCID ID
