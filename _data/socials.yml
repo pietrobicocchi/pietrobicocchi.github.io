@@ -10,3 +10,7 @@ scholar_userid: UFlcnfUAAAAJ # your Google Scholar ID (the `user=` value in your
 orcid_id: 0009-0006-6189-3940 # your ORCID ID
 github_username: pietrobicocchi # your GitHub user name
 linkedin_username: pietro-bicocchi # your LinkedIn user name
+x: # custom entry so the link points at x.com (the built-in x_username key links to twitter.com)
+  logo: fa-brands fa-x-twitter
+  title: X
+  url: https://x.com/pietro_bicocchi
