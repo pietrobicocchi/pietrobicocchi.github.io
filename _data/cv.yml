@@ -1,41 +1,46 @@
 # CV data rendered on /cv/ (cv_format: rendercv in _pages/cv.md).
 # Only education (from Politecnico onwards) and work experience are published on the site.
 # Contact fields (name, email, phone, address) are intentionally omitted: the CV layout prints them unprotected.
+#
+# The field values are deliberately swapped so the university/company is the bold headline:
+# al_folio_cv renders `degree` / `position` as the bold title and `institution` / `company` as the line below.
+# Education: `degree` holds the university, `institution` holds the degree.
+# Experience: `position` holds the company, `company` holds the role.
 cv:
   sections:
     Education:
-      - institution: University of Oxford
+      - degree: University of Oxford
+        institution: DPhil in Computer Science
         location: Oxford, UK
-        degree: DPhil in Computer Science
         start_date: 2026
         end_date: 2029
 
-      - institution: Mathematical Institute, University of Oxford
+      - degree: Mathematical Institute, University of Oxford
+        institution: Visiting Student
         location: Oxford, UK
-        degree: Visiting Student
         date: 2023
 
-      - institution: Politecnico di Torino
+      - degree: Politecnico di Torino
+        institution: M.Sc. Physics of Complex Systems
         location: Turin, Italy
-        degree: M.Sc. Physics of Complex Systems
         start_date: 2021
         end_date: 2023
         highlights:
           - "Final grade: 110/110 cum laude"
 
-      - institution: Sorbonne Université
+      - degree: Sorbonne Université
+        institution: M.Sc. Theoretical Physics
         location: Paris, France
-        degree: M.Sc. Theoretical Physics
         start_date: 2022
         end_date: 2023
 
     Experience:
-      - company: Morgan Stanley
-        position: Quantitative Strategist — FX & Fixed Income
+      - position: Morgan Stanley
+        company: Quantitative Strategist — FX & Fixed Income
         start_date: 2024
         end_date: 2026
 
-      - company: Bain & Company
-        position: Strategy Consultant — Advanced Analytics Group
+      - position: Bain & Company
+        company: Strategy Consultant — Advanced Analytics Group
         start_date: 2023
         end_date: 2024
