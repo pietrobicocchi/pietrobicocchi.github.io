@@ -17,9 +17,11 @@ cv:
 
       - institution: Politecnico di Torino
         location: Turin, Italy
-        degree: M.Sc. Physics of Complex Systems, summa cum laude
+        degree: M.Sc. Physics of Complex Systems
         start_date: 2021
         end_date: 2023
+        highlights:
+          - "Final grade: 110/110 cum laude"
 
       - institution: Sorbonne Université
         location: Paris, France
