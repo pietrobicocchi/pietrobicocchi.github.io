@@ -15,8 +15,8 @@ cv:
         start_date: 2026
         end_date: 2029
 
-      - degree: Mathematical Institute, University of Oxford
-        institution: Visiting Student
+      - degree: University of Oxford
+        institution: Visiting Student in Mathematics
         location: Oxford, UK
         date: 2023
 
